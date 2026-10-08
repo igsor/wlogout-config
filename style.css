@@ -6,7 +6,8 @@
 }
 
 window {
-    background-color: rgba(12, 12, 12, 0.9);
+    background-color: rgba(12, 12, 12, 0.15);
+    background-image: image(url("background.png"));
 }
 
 button {
